@@ -1,25 +1,339 @@
 类别,中文,英文,梵文/藏文,备注
-Sutra Names,心经,Heart Sutra,心经,重要经典
-Buddha Names (Past),释迦牟尼,Shakyamuni,释迦牟尼,历史佛
-Buddha Names (Present),释迦牟尼,Shakyamuni,释迦牟尼,当下佛
-Buddha Names (Future),弥勒菩萨,Maitreya,弥勒菩萨,未来佛
-Bodhisattva Names,观音菩萨,Guanyin,观世音菩萨,慈悲
-Ten Titles of Buddha,如来,Tathagata,如来,称号
-Core Terms,法, Dharma,法,教义
-Three Jewels,佛,Buddha,佛,信仰
-Precepts and Vinaya,戒律,Precepts,戒律,修行
-Fruition Levels,菩萨果,Bodhi Fruit,菩萨果,修证
-Samadhi Names,三昧,Samadhi,三昧,定
-Twelve Divisions of Sutras,经, Sutra,经,文献
-Hell Realms,地狱,Hell,地狱,轮回
-Six Paramitas,布施,Generosity,布施,修行
-Four Noble Truths,四圣谛,Four Noble Truths,四圣谛,教义
-Twelve Links,十二因缘,Twelve Links,十二因缘,因缘法
-Five Aggregates,五蕴,Five Aggregates,五蕴,教义
-Three Realms,欲界,Desire Realm,欲界,存在
-Six Paths,六道,Six Paths,六道,轮回
-Confession Terms,忏悔,Confession,忏悔,修行
-Emptiness Terms,空性,Emptiness,空性,教义
-Mantra Terms,咒语,Mantra,咒语,修行
-Numbers,数字,Numbers,数字,分类
-Time/Geography Terms,时间,Time,时间,分类
+经名,大通方广忏悔灭罪庄严成佛经,"The Ārya Mahāyāna Sūtra called The All-Expansive Great Liberation, Purifying Negative Deeds through Cleansing Remorse, Perfectly Arranged for the Accomplishment of Buddhahood",,完整经名
+经名简称,大通方广,The All-Expansive Great Liberation,,
+
+佛名-过去佛,多宝佛,Prabhūtaratna,Prabhūtaratna,
+佛名-过去佛,定光佛,Unchanging Light / Dīpaṃkara Buddha,Dīpaṃkara,
+佛名-过去佛,宝胜佛,Ratnaśikhin,Ratnaśikhin,
+佛名-过去佛,须弥灯王佛,Lamp that is the King of Sumeru,,
+佛名-过去佛,毗婆尸佛,Vipaśyin,Vipaśyin,七佛之一
+佛名-过去佛,尸弃佛,Śikhin,Śikhin,七佛之一
+佛名-过去佛,毗舍浮佛,Viśvabhū,Viśvabhū,七佛之一
+佛名-过去佛,拘楼秦佛,Krakucchanda,Krakucchanda,七佛之一
+佛名-过去佛,拘那含牟尼佛,Kanakamuni,Kanakamuni,七佛之一
+佛名-过去佛,迦叶佛,Kāśyapa,Kāśyapa,七佛之一
+佛名-过去佛,二万日月灯明佛,twenty thousand buddhas named Candrasūryapradīpa,Candrasūryapradīpa,
+佛名-过去佛,三万燃灯佛,thirty thousand buddhas named Dipaṃkara,Dīpaṃkara,
+佛名-过去佛,大通智胜佛,Supreme Unobstructed Wisdom,,
+佛名-过去佛,十六子佛,sixteen buddhas named Prince,,
+佛名-过去佛,空王佛,Gaganarāja,Gaganarāja,
+佛名-过去佛,云自在灯王佛,King of Lamps That is Lord among the Clouds,,
+佛名-过去佛,威音王佛,King of the Sound of Generosity,,
+佛名-过去佛,宝积佛,Ratnakūṭa,Ratnakūṭa,
+佛名-过去佛,宝明佛,Ratnaprabha,,
+佛名-过去佛,百亿定光佛,ten million buddhas named Immoveable Light,,
+
+佛名-现在佛,释迦牟尼佛,Śākyamuni,Śākyamuni,
+佛名-现在佛,阿弥陀佛,Amitābha / Amitāyus,Amitābha,西方佛
+佛名-现在佛,阿閦佛,Akṣobhya / Without Disturbance,Akṣobhya,东方佛
+佛名-现在佛,药师佛,Bhaiṣajyarāja,Bhaiṣajyarāja,
+佛名-现在佛,香积佛,Heaped Incense / Gandhakuṭī,Gandhakuṭī,上方佛
+佛名-现在佛,宝相佛,Ratnasambhava,Ratnasambhava,南方佛
+佛名-现在佛,胜妙佛,Amoghasiddhi,Amoghasiddhi,北方佛
+佛名-现在佛,亿像如来,One Hundred Thousand Reflections,,下方佛
+佛名-现在佛,十亿光明王诸佛,one million buddhas named Prasenajit,Prasenajit,
+佛名-现在佛,离垢紫金沙佛,Stainless Refined Gold Dust,,
+佛名-现在佛,无量明佛,Limitless Illumination,,
+佛名-现在佛,日轮光明王佛,King Illuminating Light Like the Maṇḍala of the Sun,,
+
+佛名-未来佛,弥勒佛,Maitreya,Maitreya,
+佛名-未来佛,净身佛,Completely Pure Body,,
+佛名-未来佛,华光佛,Flower Light / Lotus Light,,
+佛名-未来佛,华足佛,Perfected Flower,,
+佛名-未来佛,光明佛,Illuminating Light,,
+佛名-未来佛,名相佛,Name and Sign,,
+佛名-未来佛,阎浮那提金光佛,Golden Light of the Jambu River's Gold,,
+
+菩萨名,文殊师利菩萨,Youthful Mañjuśrī / Mañjuśrī,Mañjuśrī,
+菩萨名,观世音菩萨,Avalokiteśvara / Samantāvalokiteśvara,Avalokiteśvara,
+菩萨名,普贤菩萨,Samantabhadra,Samantabhadra,
+菩萨名,大势至菩萨,Mahāsthāmaprapta,Mahāsthāmaprapta,
+菩萨名,弥勒菩萨,Maitreya,Maitreya,
+菩萨名,虚空藏菩萨,Ākāśagarbha,Ākāśagarbha,
+菩萨名,信相菩萨,Faith-in-Signs,Śraddhābala,
+菩萨名,药王菩萨,Bhaiṣajyarāja,Bhaiṣajyarāja,
+菩萨名,药上菩萨,Supreme Doctor,,
+菩萨名,常精进菩萨,Constant Effort,,
+菩萨名,不休息菩萨,Unsent Continuum / Unreleased Continuum,,
+菩萨名,宝掌菩萨,Jewel-in-Hand,,
+菩萨名,龙树菩萨,Nāga Tree,Nāgārjuna,
+菩萨名,陀罗尼菩萨,Dhāraṇīdhāra,Dhāraṇīdhāra,
+菩萨名,师子吼菩萨,Siṃhaghoṣa,Siṃhaghoṣa,
+菩萨名,宝积菩萨,Ratnakūṭa,Ratnakūṭa,
+菩萨名,持地菩萨,Lokadhara / Gāndhāra,Lokadhara,
+菩萨名,跋陀婆罗菩萨,Bhadrapāla,Bhadrapāla,
+菩萨名,无尽意菩萨,Akṣayamati,Akṣayamati,
+菩萨名,金刚那罗延菩萨,Vajra Non-Craving,Vajrapāṇi,
+菩萨名,宝月菩萨,Ratnacandra,Ratnacandra,
+菩萨名,月光菩萨,Candraprabha,Candraprabha,
+菩萨名,满月菩萨,Pūrṇacandra,Pūrṇacandra,
+
+佛陀十号,如来,Tathāgata,Tathāgata,如实而来
+佛陀十号,应供 / 阿罗汉,Arhat / Foe-Destroyer,Arhat,应受供养
+佛陀十号,正遍知,Perfectly Completed Buddha,Samyak-Saṃbuddha,正等正觉
+佛陀十号,明行足,Possessed of Exalted Wisdom and Feet,,明与行具足
+佛陀十号,善逝,Sugata / One Gone to Bliss,Sugata,善去
+佛陀十号,世间解,Knower of the World,,了解世间
+佛陀十号,无上士调御丈夫,Unsurpassed / Charioteer Who Tames Beings,,无上调御
+佛陀十号,天人师,Teacher of Gods and Humans,,天人导师
+佛陀十号,佛 / 佛陀,Buddha,Buddha,觉者
+佛陀十号,世尊 / 薄伽梵,Bhagavān,Bhagavān,具德
+
+核心术语,南无,I prostrate to / Namo,Namo,归敬
+核心术语,菩萨摩诃萨,bodhisattva mahāsattva,bodhisattva mahāsattva,大菩萨
+核心术语,如是我闻,Thus have I heard,Evaṃ mayā śrutam,
+核心术语,一时,at one time,ekasmin samaye,
+核心术语,世尊,Bhagavān,Bhagavān,
+核心术语,比丘,fully ordained monk,bhikṣu,
+核心术语,比丘尼,fully ordained nun,bhikṣuṇī,
+核心术语,优婆塞,male householder / layman,upāsaka,
+核心术语,优婆夷,female householder / laywoman,upāsikā,
+核心术语,沙弥,male monastic / novice monk,śrāmaṇera,
+核心术语,沙弥尼,female monastic / novice nun,śrāmaṇerikā,
+
+修行证悟,无生法忍,patience regarding nonarisen phenomena,anutpattika-dharma-kṣānti,
+修行证悟,陀罗尼,dhāraṇī,dhāraṇī,总持
+修行证悟,三昧,samādhi,samādhi,
+修行证悟,禅定,dhyāna and samādhi / concentration,dhyāna,
+修行证悟,菩提心,mind of enlightenment / bodhicitta,bodhicitta,
+修行证悟,阿耨多罗三藐三菩提,unsurpassed perfectly completed enlightenment,anuttarā-samyak-saṃbodhi,
+修行证悟,般若,wisdom / prajñā,prajñā,
+修行证悟,方便,skillful means / upāya,upāya,
+修行证悟,法忍,patience regarding phenomena / dharma-kṣānti,dharma-kṣānti,
+修行证悟,法界忍,patience of the dharmadhātu,dharmadhātu-kṣānti,
+
+三乘,一乘,single vehicle / one vehicle,,唯一佛乘
+三乘,三乘,three vehicles,,声闻缘觉菩萨
+三乘,大乘,Great Vehicle / Mahāyāna,Mahāyāna,
+三乘,小乘,Small Vehicle / Lesser Vehicle,Hīnayāna,
+三乘,声闻,śrāvaka,śrāvaka,
+三乘,缘觉 / 辟支佛,pratyekabuddha,pratyekabuddha,
+三乘,菩萨乘,Bodhisattva Vehicle,,
+三乘,佛乘,Buddha Vehicle,,
+
+三宝,三宝,Three Jewels,,佛法僧
+三宝,佛宝,Buddha Jewel,,
+三宝,法宝,Dharma Jewel,,
+三宝,僧宝,Saṅgha Jewel,,
+三宝,一体三宝,Three Jewels as one entity,,究竟三宝
+三宝,别相三宝,Three Jewels as different entities,,住持三宝
+三宝,三归依 / 三归,three refuges,triśaraṇa,
+三宝,归依佛,I go for refuge to the Buddha,,
+三宝,归依法,I go for refuge to the Dharma,,
+三宝,归依僧,I go for refuge to the Saṅgha,,
+
+戒律-戒种,四重 / 四根本罪,four defeats / four roots,pārājika,波罗夷
+戒律-戒种,八禁 / 八戒,eight vows / eight precepts,,八关斋戒
+戒律-戒种,六重,the six / partial vows,,
+戒律-戒种,十戒 / 十善,ten rules / ten virtues,,沙弥十戒
+戒律-戒种,五戒,five rules / five precepts,,在家五戒
+戒律-戒种,十善戒,ten virtues,,
+戒律-戒种,菩萨戒,bodhisattva vows,,
+戒律-戒种,三归五戒,having-gone to the three for refuge the five rules,,
+
+戒律-犯戒,波罗夷,pārājika / defeats,pārājika,
+戒律-犯戒,僧残,saṃghāvaśeṣa / remainders of the saṅgha,saṃghāvaśeṣa,
+戒律-犯戒,偷兰遮,sthūlātyaya / gross infractions,sthūlātyaya,
+戒律-犯戒,波逸提,pāyattika / downfalls,pāyattika,
+戒律-犯戒,突吉罗,duṣkṛta / infractions / misdeeds,duṣkṛta,
+戒律-犯戒,二不定法,two uncertain dharmas,,
+戒律-犯戒,三十舍堕,thirty downfalls to be abandoned,niḥsargika-pāyattika,
+戒律-犯戒,九十一堕,ninety downfalls,,
+戒律-犯戒,四忏悔法,four actions to be individually confessed,,
+戒律-犯戒,众多学法,a lot of advice,śaikṣa-dharma,
+戒律-犯戒,七灭诤法,seven very heavy dharmas,adhikaraṇa-śamatha,
+
+重罪,五逆 / 五无间罪,five actions of immediate retribution,,杀父母等
+重罪,十恶,ten nonvirtues / ten unwholesome actions,,
+重罪,一阐提,icchantika / wrong conduct,icchantika,断善根者
+重罪,谤方等 / 谤正法,disparaging the emptiness sūtras / disparaging the holy Dharma,,
+重罪,破戒,destroying ethics / degenerated ethics,,
+
+果位-四果,须陀洹,stream-enterer,srotāpanna,
+果位-四果,斯陀含,once-returner,sakṛdāgāmin,
+果位-四果,阿那含,non-returner,anāgāmin,
+果位-四果,阿罗汉,arhat,arhat,
+
+果位-菩萨,十地,ten grounds,,菩萨十地
+果位-菩萨,初地,first ground,,欢喜地
+果位-菩萨,十地,tenth ground,,法云地
+果位-菩萨,法云地,Dharma Cloud ground,,
+果位-菩萨,不退地 / 不退转,ground of irreversibility / irreversible,,
+果位-菩萨,一生补处,one remaining rebirth,,下一生成佛
+
+智慧神通,法眼净,perfectly pure dharma eye / dharma eye,dharma-cakṣus,
+智慧神通,五眼,five eyes,,肉天慧法佛眼
+智慧神通,五神通 / 五通,five clairvoyances,,
+智慧神通,六神通 / 六通,six clairvoyances,,含漏尽通
+智慧神通,三明,three knowledges,,宿命天眼漏尽明
+智慧神通,十力,ten powers,,佛十力
+智慧神通,四无所畏,four fearlessnesses,,
+智慧神通,十八不共法,eighteen distinctive qualities,,佛十八不共法
+
+佛身相好,三十二相,thirty-two marks,,
+佛身相好,八十种好,eighty excellent signs,,
+佛身相好,法身,dharmakāya / dharma body,dharmakāya,
+佛身相好,应身 / 化身,nirmāṇakāya / emanation body,nirmāṇakāya,
+佛身相好,五分法身,aggregate of complete liberation,,戒定慧解脱解脱知见
+
+三昧,首楞严三昧,samādhi Going as a Hero,śūraṅgama-samādhi,
+三昧,金刚三昧,samādhi Vajra / vajra samādhi,vajra-samādhi,
+三昧,师子吼三昧,samādhi Lion's Roar,siṃhanāda-samādhi,
+三昧,海意三昧,samādhi Ocean Mind,,
+三昧,普智三昧,samādhi Complete Wisdom,,
+三昧,陀罗尼印三昧,samādhi Dhāraṇī Mudrā,,
+三昧,普现色身三昧,samādhi Having a Body of Complete Illumination,,
+三昧,法界性三昧,samādhi Actual Dharmadhātu,,
+三昧,师子王三昧,samādhi King of Lions,,
+三昧,灭诸魔相三昧,samādhi Ending the Marks of All Māras,,
+三昧,空慧三昧,samādhi Wisdom of Emptiness,,
+三昧,解空相三昧,samādhi Understanding the Characteristics of Emptiness,,
+三昧,大空智三昧,samādhi Wisdom of Great Emptiness,,
+三昧,遍一切处色身三昧,samādhi Having a Body That Pervades Everywhere,,
+三昧,观心相三昧,samādhi Discriminating the Characteristics of the Mind,,
+三昧,金刚相三昧,samādhi Characteristics of the Bodhisattva Mahāsattva Vajra,,
+三昧,金刚顶三昧,samādhi Vajra Crown Protrusion,,
+三昧,一切海三昧,samādhi All Oceans,,
+三昧,一切陀罗尼海三昧,samādhi Ocean of All Dhāraṇīs,,
+三昧,金刚喻定,samādhi Vajra / vajra-like samādhi,vajropama-samādhi,
+
+十二部经,修多罗,scriptural collection of general discourses / sūtra,sūtra,
+十二部经,祇夜,scriptural collection of proclamations in verse / geya,geya,
+十二部经,授记,scriptural collection of prophecies / vyākaraṇa,vyākaraṇa,
+十二部经,伽陀那,scriptural collection of proclamations in song / gāthā,gāthā,
+十二部经,忧陀那,scriptural collection of special aphorisms / udāna,udāna,
+十二部经,尼陀那,scriptural collection of declarations / nidāna,nidāna,
+十二部经,阿波陀那,scriptural collection of biographical narratives / avadāna,avadāna,
+十二部经,伊帝目多伽,scriptural collection of narratives of parables / itivṛttaka,itivṛttaka,
+十二部经,阇陀伽,scriptural collection of narratives of former births / jātaka,jātaka,
+十二部经,毗佛略,scriptural collection of extensive discourses / vaipulya,vaipulya,
+十二部经,阿浮陀达摩,scriptural collection of narratives of marvels / adbhuta-dharma,adbhuta-dharma,
+十二部经,忧波提舍,scriptural collection of narratives of established doctrines / upadeśa,upadeśa,
+
+地狱,阿鼻地狱 / 无间地狱,Avīci Hell,Avīci,
+地狱,八大地狱,eight great hells,,
+地狱,寒冰地狱,Cold and Freezing Hell,,
+地狱,黑暗地狱,Black Darkness Hell,,
+地狱,焦热地狱,Intense Heat Hell,,
+地狱,刀轮地狱,Sword-Wheel Hell,,
+地狱,剑轮地狱,Filled with Razor Teeth Hell,,
+地狱,火车地狱,Blazing Chariot Hell,,
+地狱,沸屎地狱,Excrement Swamp Hell,,
+地狱,濩汤地狱,Hot Water Hell,,
+地狱,灰河地狱,Valley of Hot Coals Hell,,
+地狱,剑林地狱,Grove of Sword-Leaf Trees Hell,,
+地狱,铁床地狱,Iron Throne Hell,,
+地狱,铜柱地狱,Columns of Iron Śālmali Trees Hell,,
+地狱,铁机地狱,Iron Machinery Hell,,
+地狱,铁轮地狱,Iron Wheel Hell,,
+地狱,铁窟地狱,Piercing Iron Hell,,
+地狱,铁丸地狱,Iron Hail Hell,,
+地狱,尖石地狱,Meeting-with-Crushing-Mountain Hell,,
+地狱,饮铜地狱,Exuding-Molten-Copper Hell,,
+
+六度,六波罗蜜 / 六度,six pāramitās / six perfections,ṣaṭ-pāramitā,
+六度,布施,generosity / dāna,dāna,
+六度,持戒,ethics / śīla,śīla,
+六度,忍辱,patience / kṣānti,kṣānti,
+六度,精进,perseverance / vīrya,vīrya,
+六度,禅定,concentration / dhyāna,dhyāna,
+六度,智慧,wisdom / prajñā,prajñā,
+
+四谛,四谛,four truths / four noble truths,catvāri āryasatyāni,
+四谛,苦谛,truth of suffering,duḥkha-satya,
+四谛,集谛,truth of the cause of suffering,samudaya-satya,
+四谛,灭谛,truth of cessation,nirodha-satya,
+四谛,道谛,truth of the path,mārga-satya,
+
+十二因缘,十二因缘 / 十二缘起,twelve links of interdependence,dvādaśa-nidāna,
+十二因缘,无明,ignorance,avidyā,
+十二因缘,行,compositional factors,saṃskāra,
+十二因缘,识,consciousness,vijñāna,
+十二因缘,名色,name and form,nāma-rūpa,
+十二因缘,六入,six sense-spheres,ṣaḍ-āyatana,
+十二因缘,触,contact,sparśa,
+十二因缘,受,feeling,vedanā,
+十二因缘,爱,craving,tṛṣṇā,
+十二因缘,取,grasping,upādāna,
+十二因缘,有,becoming,bhava,
+十二因缘,生,birth,jāti,
+十二因缘,老死,aging and death,jarā-maraṇa,
+
+五蕴,五蕴 / 五阴,five aggregates,pañca-skandha,
+五蕴,色,form,rūpa,
+五蕴,受,feeling,vedanā,
+五蕴,想,discrimination / perception,saṃjñā,
+五蕴,行,compositional factors,saṃskāra,
+五蕴,识,consciousness,vijñāna,
+
+三界六道,三界,three realms,,欲色无色界
+三界六道,欲界,desire realm,kāma-dhātu,
+三界六道,色界,form realm,rūpa-dhātu,
+三界六道,无色界,formless realm,ārūpya-dhātu,
+三界六道,六道,six types of beings / six realms,,
+三界六道,天道,gods / deva,deva,
+三界六道,人道,humans,manuṣya,
+三界六道,阿修罗道,demigods / asura,asura,
+三界六道,畜生道,animals,tiryak,
+三界六道,饿鬼道,hungry ghosts / preta,preta,
+三界六道,地狱道,hell beings / naraka,naraka,
+三界六道,三恶道 / 三涂,three lower rebirths / three bad transmigrations,,地狱饿鬼畜生
+
+忏悔修行,忏悔,confess / repent / cleansing remorse,,
+忏悔修行,发露忏悔,openly confess and repent,,
+忏悔修行,礼拜,prostrate,,
+忏悔修行,供养,make offerings / worship,,
+忏悔修行,读诵,read aloud / recite,,
+忏悔修行,受持,adopt and hold / uphold,,
+忏悔修行,书写,write / transcribe,,
+忏悔修行,发菩提心,generate the mind of enlightenment,,
+忏悔修行,回向,dedicate,,
+忏悔修行,功德,merit / good qualities,,
+忏悔修行,福德,merit,,
+
+空性,空,emptiness / śūnyatā,śūnyatā,
+空性,真空,authentic emptiness,,
+空性,法性,dharmatā / nature of phenomena,dharmatā,
+空性,法界,dharmadhātu / sphere of reality,dharmadhātu,
+空性,实相,authentic characteristics / reality,tathatā,
+空性,佛性,buddha-essence / buddha-nature,buddhatā,
+空性,如来藏,tathāgatagarbha,tathāgatagarbha,
+
+咒语,南无佛陀,NAMO BUDDHĀYA,Namo Buddhāya,归依佛
+咒语,南无达摩,NAMO DHARMĀYA,Namo Dharmāya,归依法
+咒语,南无僧伽,NAMAḤ SAṄGHĀYA,Namaḥ Saṅghāya,归依僧
+咒语,阿亶地陀罗尼,ADANTI DHĀRAṆĪ,Adanti Dhāraṇī,
+咒语,多陀呵,TADYATHĀ,Tadyathā,即说咒曰
+咒语,娑诃 / 娑婆诃,SVĀHĀ,Svāhā,咒语结尾
+
+其他术语,涅槃,nirvāṇa / passing beyond sorrow,nirvāṇa,
+其他术语,解脱,liberation / vimukti,vimukti,
+其他术语,轮回 / 生死,saṃsāra / cycle of birth and death,saṃsāra,
+其他术语,烦恼,afflictions / kleśa,kleśa,
+其他术语,业 / 业力,karma,karma,
+其他术语,因果,cause and effect / karma,,
+其他术语,善知识,spiritual friend / virtuous friend,kalyāṇamitra,
+其他术语,外道,tīrthika / heretics,tīrthika,
+其他术语,魔,māra / demon,māra,
+其他术语,众生,sentient beings / sattva,sattva,
+其他术语,有情,sentient beings,sattva,
+其他术语,尊者,venerable / ārya,ārya,
+其他术语,大德,great virtue / bhadanta,bhadanta,
+
+数字,恒河沙,as numerous as the grains of sand in the Gaṅgā River,,
+数字,那由他,nayuta,,千万或更大数
+数字,阿僧祇,asaṃkhyeya / countless / limitless,asaṃkhyeya,
+数字,无量,limitless / immeasurable,,
+数字,无边,boundless / infinite,,
+
+时间地理,劫,eon / kalpa,kalpa,
+时间地理,大劫,great eon,,
+时间地理,小劫,small eon,,
+时间地理,贤劫,excellent eon,,
+时间地理,清净劫,eon called Perfectly Pure,,
+时间地理,王舍城,Rājagṛha,Rājagṛha,
+时间地理,娑婆世界,Saha world system,Sahā,
+时间地理,兜率天,Tuṣita,Tuṣita,
+时间地理,忉利天,Heaven of the Thirty-Three,Trāyastriṃśa,
+时间地理,极乐世界,world of great bliss,Sukhāvatī,
+时间地理,由旬,yojana,yojana,长度单位
